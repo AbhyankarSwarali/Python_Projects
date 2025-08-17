@@ -1,6 +1,6 @@
-# 💰 Expense Splitter (Python)
+# 💰 Expense Calculator
 
-This is a simple Python script to calculate **shared living expenses per
+This is a simple Python script to calculate **living expenses per
 person**.\
 It divides total costs (rent, food, electricity) equally among all
 housemates.
@@ -10,26 +10,26 @@ housemates.
 ## 📌 Features
 
 -   Takes user input for:
-    -   Monthly rent\
-    -   Food expenses\
-    -   Electricity units consumed\
-    -   Number of people sharing\
--   Calculates electricity bill (`units × charge per unit`)\
+    -   Monthly rent
+    -   Food expenses
+    -   Electricity units consumed
+    -   Number of people sharing
+-   Calculates electricity bill (`units × charge per unit`)
 -   Splits the total bill equally among all housemates
 
 ------------------------------------------------------------------------
 
 ## 🚀 How to Use
 
-1.  Clone this repository or copy the script.\
+1.  Clone this repository or copy the script.
 
 2.  Run the Python file:
 
     ``` bash
-    python expense_splitter.py
+    python expense_calculator.py
     ```
 
-3.  Enter the required details when prompted.\
+3.  Enter the required details when prompted.
 
 4.  Get the **per-person expense** instantly.
 
@@ -43,21 +43,6 @@ Enter food_bill: 12000
 Enter total electricity units spent: 250
 Enter number of people living: 4
 Money spent per person:  8625.0
-```
-
-------------------------------------------------------------------------
-
-## 📷 Code Snapshot
-
-Here's the core part of the script:
-
-``` python
-elec_charge_amt = 6.5
-
-elec_bill = elec * elec_charge_amt
-Bill = (food + elec_bill + rent) / person
-
-print("Money spent per person: ", Bill)
 ```
 
 ------------------------------------------------------------------------
