@@ -47,21 +47,4 @@ You finished in 14 seconds!
 
 ------------------------------------------------------------------------
 
-## 📷 Code Snapshot
-
-Here's the core **problem generator** function from the project:
-
-``` python
-def generate_prob():
-    left = random.randint(MIN_OPERAND, MAX_OPERAND)
-    right = random.randint(MIN_OPERAND, MAX_OPERAND)
-    operator = random.choice(OPERATORS)
-
-    expr = str(left) + ' ' + operator + ' ' + str(right)
-    answer = eval(expr)
-    return expr, answer
-```
-
-------------------------------------------------------------------------
-
 ✅ That's it! Run the script and test your math skills.
