@@ -1,4 +1,4 @@
-# 🔑 Random Password Generator (Python)
+# 🔑 Random Password Generator
 
 This is a simple Python script to generate strong random passwords.\
 It allows you to specify: - Minimum password length\
