@@ -51,13 +51,5 @@ Or, if all your attempts are used:
     You used all your attempts. Try again later
     The correct number is:  8
 
-## 📂 File Structure
-
-    number_guess.py   # Main Python script
-    README.md         # Documentation
-
-## 🚀 Future Improvements
-
--   Allow user to set difficulty level (easy, medium, hard).\
--   Add option to play again without restarting the program.\
--   Keep track of number of games won/lost.
+## Let's see how many guesses you can hit correct !!
+## All the Best !
