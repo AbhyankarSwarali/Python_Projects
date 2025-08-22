@@ -52,4 +52,4 @@ Or, if all your attempts are used:
     The correct number is:  8
 
 ## Let's see how many guesses you can hit correct !!
-## All the Best !
+## Enjoy!
