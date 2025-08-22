@@ -40,7 +40,7 @@ limited number of attempts.
     Enter your guess: 7
     Correct guess!
 
-Or, if all attempts are used:
+Or, if all your attempts are used:
 
     Enter your guess: 2
     Your guess is smaller
