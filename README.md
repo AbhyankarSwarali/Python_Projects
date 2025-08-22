@@ -7,7 +7,7 @@ limited number of attempts.
 ## 📌 Features
 
 -   Random number generation between **1 and 10**.\
--   User gets **4 attempts** to guess the number.\
+-   User gets **3 attempts** to guess the number.\
 -   Hints provided after each wrong guess:
     -   `"Your guess is smaller"` if the guess is less than the number.\
     -   `"Your guess is bigger"` if the guess is greater than the
