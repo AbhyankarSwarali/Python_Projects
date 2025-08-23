@@ -1,4 +1,4 @@
-Quiz Game - README
+## Quiz Game
 This is a simple Python-based Quiz Game. The game asks the player a series of 5 questions and awards points based on correct or incorrect answers. The player can choose whether to play or quit at the start.
 Features
 - Interactive quiz with 5 questions.
@@ -23,3 +23,4 @@ Example Questions
 3. Who discovered zero (0)? -> Aryabhatt
 4. ISRO stands for? -> Indian Space Research Organisation
 5. Heat is which type of energy? -> Radiation
+
