@@ -26,3 +26,5 @@
 1. Each correct answer gives +1 point.
 2. Each incorrect answer gives -1 point.
 3. Final score is displayed at the end.
+
+## All the best !!
