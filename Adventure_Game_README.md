@@ -1,33 +1,28 @@
-🏞️ Adventure Game
+# 🏞️ Adventure Game
 
 This is a simple text-based adventure game written in Python.  
 The game allows the player to make choices at different stages, leading to different outcomes — either winning, losing, or running into unexpected scenarios.  
 
 ---
 
-🎮 How to Play
+## 🎮 How to Play
 
 1. Run the Python script.
-2. Enter your name when prompted.
-3. Make choices by typing the options shown (e.g., left, right, swim, walk, cross, back, yes, no).
-4. The game ends when you either win or lose depending on your choices.
+   ```
+   python adventure_game.py
+   ```
+3. Enter your name when prompted.
+4. Make choices by typing the options shown (e.g., left, right, swim, walk, cross, back, yes, no).
+5. The game ends when you either win or lose depending on your choices.
 
 ---
 
-🧭 Game Flow
+## 🧭 Game Flow
 
-- You start on a dirt road with two paths:  
-  - Left → Leads to a river (options: walk / swim)  
-    - swim → You get eaten by an alligator. (Lose)  
-    - walk → You run out of water. (Lose)  
+- In every question you have to choose either of the options.
+- Each option will lead you to different scenario.
+- Again, by opting one of the options either you will reach the end of the game and win or you will lose the game.
 
-  - Right → Leads to an old bridge (options: cross / back)  
-    - back → You return to the main road. (Lose)  
-    - cross → You meet a stranger (options: yes / no)  
-      - yes → The stranger gives you the secret to becoming the richest person. (Win 🎉)  
-      - no → You ignore him, and he kills you. (Lose)  
-
----
 
 ⚙️ Requirements
 
