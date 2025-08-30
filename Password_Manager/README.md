@@ -12,14 +12,14 @@ using the **Fernet symmetric encryption** algorithm.
 [Fernet](https://cryptography.io/en/latest/fernet/) is a symmetric
 encryption method provided by the `cryptography` library in Python. It
 guarantees:
-- **Confidentiality** -> All passwords are encrypted before being
+- **Confidentiality :-**  All passwords are encrypted before being
 stored.
-- **Integrity** -> Any tampering with the encrypted data will make
+- **Integrity :-**  Any tampering with the encrypted data will make
 decryption fail.
-- **Simplicity** -> Encryption and decryption are handled with just a
+- **Simplicity :-**  Encryption and decryption are handled with just a
 few lines of code.
 
-Fernet uses:
+**Fernet uses:**
 - AES in CBC mode with a 128-bit key for encryption
 - HMAC with SHA256 for authentication
 - Base64 encoding for safe storage
@@ -46,8 +46,8 @@ This ensures your stored passwords remain **safe and secure**.
         key_file.write(key)
     ```
 
-3.  Save the key file (`key.key`) safely. Losing it will make decryption
-    impossible.
+3.  Save the key file (`key.key`) safely. **Losing it will make decryption
+    impossible.**
 
 ------------------------------------------------------------------------
 
