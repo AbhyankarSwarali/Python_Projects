@@ -1,7 +1,7 @@
 # 🔐 Password Manager
 
 This project is a lightweight **Password Manager** built in Python using
-the **cryptography** library.\
+the **cryptography** library.
 It allows you to **securely store and retrieve encrypted passwords**
 using the **Fernet symmetric encryption** algorithm.
 
@@ -11,17 +11,17 @@ using the **Fernet symmetric encryption** algorithm.
 
 [Fernet](https://cryptography.io/en/latest/fernet/) is a symmetric
 encryption method provided by the `cryptography` library in Python. It
-guarantees:\
-- **Confidentiality** -- All passwords are encrypted before being
-stored.\
-- **Integrity** -- Any tampering with the encrypted data will make
-decryption fail.\
-- **Simplicity** -- Encryption and decryption are handled with just a
+guarantees:
+- **Confidentiality** -> All passwords are encrypted before being
+stored.
+- **Integrity** -> Any tampering with the encrypted data will make
+decryption fail.
+- **Simplicity** -> Encryption and decryption are handled with just a
 few lines of code.
 
-Fernet uses:\
-- AES in CBC mode with a 128-bit key for encryption\
-- HMAC with SHA256 for authentication\
+Fernet uses:
+- AES in CBC mode with a 128-bit key for encryption
+- HMAC with SHA256 for authentication
 - Base64 encoding for safe storage
 
 This ensures your stored passwords remain **safe and secure**.
@@ -59,9 +59,9 @@ Run the program:
 python password_manager.py
 ```
 
-You'll be prompted to either:\
-- **Add** → Save a new encrypted password\
-- **View** → Decrypt and show saved passwords\
+You'll be prompted to either:
+- **Add** → Save a new encrypted password
+- **View** → Decrypt and show saved passwords
 - **Quit** → Exit the program
 
 ### Example Run
@@ -79,13 +79,13 @@ Password:  mysecret123
 ------------------------------------------------------------------------
 
 > ⚠️ **Note:** The `key.key` file in this repository is included only
-> for **educational/demo purposes**.\
+> for **educational/demo purposes**.
 > Do not use it in production for storing real passwords. Always keep
 > your encryption keys private.
 
 ## 🛡️ Security Notes
 
--   Keep the `key.key` file **private and safe**.\
--   Without the key, you cannot decrypt stored passwords.\
+-   Keep the `key.key` file **private and safe**.
+-   Without the key, you cannot decrypt stored passwords.
 -   Don't share your `Passwords.txt` file with anyone unless you trust
     them and have securely shared the key.
