@@ -1,14 +1,11 @@
-# 🔐 Simple Password Manager
+# 🔐 Password Manager
 
 This project is a lightweight **Password Manager** built in Python using
 the **cryptography** library.\
 It allows you to **securely store and retrieve encrypted passwords**
 using the **Fernet symmetric encryption** algorithm.
 
-> ⚠️ **Note:** The `key.key` file in this repository is included only
-> for **educational/demo purposes**.\
-> Do not use it in production for storing real passwords. Always keep
-> your encryption keys private.
+
 
 ## 📌 About Fernet
 
@@ -80,6 +77,11 @@ Password:  mysecret123
 ```
 
 ------------------------------------------------------------------------
+
+> ⚠️ **Note:** The `key.key` file in this repository is included only
+> for **educational/demo purposes**.\
+> Do not use it in production for storing real passwords. Always keep
+> your encryption keys private.
 
 ## 🛡️ Security Notes
 
