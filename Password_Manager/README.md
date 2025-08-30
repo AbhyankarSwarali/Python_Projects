@@ -79,10 +79,9 @@ Password:  mysecret123
 ------------------------------------------------------------------------
 
 ## ⚠️ **Note:** 
-> The `key.key` file in this repository is included only
-> for **educational/demo purposes**.
-> Do not use it in production for storing real passwords. Always keep
-> your encryption keys private.
+ - The `key.key` file in this repository is included only for **educational/demo purposes**.
+ - Do not use it in production for storing real passwords.
+ - Always keep your encryption keys private.
 
 ## 🛡️ Security Notes
 
