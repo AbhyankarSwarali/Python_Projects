@@ -55,12 +55,12 @@ You won on 2
 Current balance: Rs.110
 ```
 
-⚠️ Note
+## ⚠️ Note
 
-This project is for learning purposes only and does not involve real money.
-
-
-
-
+**This project is for learning purposes only and does not involve real money.**
+- Such gambling games might turn dangerous in real life too.
+- Be mindful before playing such games.
 
 
+## Try your luck !!
+## 
