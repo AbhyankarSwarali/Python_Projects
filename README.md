@@ -34,6 +34,7 @@ Winnings are calculated based on matching symbols in a row.
 1. Clone or download the repository.
 2. Make sure you have **Python 3.x** installed.
 3. Run the game:
+
    ```bash
    python slot_machine.py
 ```
@@ -54,6 +55,7 @@ Current balance: Rs.110
 ⚠️ Note
 
 This project is for learning purposes only and does not involve real money.
+
 
 
 
