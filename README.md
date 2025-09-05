@@ -44,7 +44,7 @@ Winnings are calculated based on matching symbols in a row.
 ```
 Enter deposit amount: Rs.100
 Enter number of lines (1-3) you want to bet on: 3
-How much would you like to bet on each line?10
+How much would you like to bet on each line? 10
 You are betting Rs.10 on 3 lines
 Total bet is equal to Rs.30
 A | B | D
@@ -58,6 +58,7 @@ Current balance: Rs.110
 ⚠️ Note
 
 This project is for learning purposes only and does not involve real money.
+
 
 
 
