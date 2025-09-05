@@ -27,12 +27,6 @@ Winnings are calculated based on matching symbols in a row.
 4. Winnings = `Symbol Value × Bet Amount`.
 5. Game continues until you quit or run out of balance.
 
----
-
-## 📂 Project Structure
-
-slot_machine.py   # Main Python file (game logic)
-README.md         # Documentation
 
 ---
 
@@ -60,5 +54,6 @@ Current balance: Rs.110
 ⚠️ Note
 
 This project is for learning purposes only and does not involve real money.
+
 
 
