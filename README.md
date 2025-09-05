@@ -1,4 +1,4 @@
-# 🎰 Slot Machine Game (Python)
+# 🎰 Slot Machine Game
 
 This is a simple **command-line slot machine game** written in Python.  
 The player deposits money, chooses the number of lines to bet on, sets a bet amount, and spins the slot machine.  
@@ -60,4 +60,5 @@ Current balance: Rs.110
 ⚠️ Note
 
 This project is for learning purposes only and does not involve real money.
+
 
