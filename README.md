@@ -35,11 +35,13 @@ Winnings are calculated based on matching symbols in a row.
 2. Make sure you have **Python 3.x** installed.
 3. Run the game:
 
-   ```bash
+```bash
    python slot_machine.py
 ```
 
-Example Gameplay:
+## Example Gameplay:
+
+```
 Enter deposit amount: Rs.100
 Enter number of lines (1-3) you want to bet on: 3
 How much would you like to bet on each line?10
@@ -51,10 +53,12 @@ C | A | C
 You won Rs.40
 You won on 2
 Current balance: Rs.110
+```
 
 ⚠️ Note
 
 This project is for learning purposes only and does not involve real money.
+
 
 
 
