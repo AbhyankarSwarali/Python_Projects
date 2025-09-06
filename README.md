@@ -16,18 +16,18 @@ A fun Python game built with the turtle graphics library. Multiple turtles race 
 ```
 python turtle_race.py
 ```
-
+- The first window asks to enter the number of turtles to race:
+```
 Enter the number of racers when prompted (between 2 and 10).
+```
 
-🖼️ Game Window
 
-The race window opens with all turtles aligned at the bottom.
+## 🖼️ Game Window
+- The race window opens with all turtles aligned at the bottom.
+- They move upwards randomly until one reaches the top.
+- Winner turtle's color is printed in the console.
 
-They move upwards randomly until one reaches the top.
-
-Winner’s color is printed in the console.
-
-⚙️ Requirements
+## ⚙️ Requirements
 
 Python 3.x
 
@@ -51,5 +51,6 @@ distance = random.randrange(1, 20)
 
 
 Free to use, modify, and share for fun and learning. 🎉
+
 
 
