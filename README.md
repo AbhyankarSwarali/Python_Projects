@@ -47,14 +47,9 @@ The winner is green turtle !!
 ```
 distance = random.randrange(1, 20)
 ```
-📜 License
 
-
+## 📜 License
 Free to use, modify, and share for fun and learning. 🎉
 
 
-
-
-
-
-
+## Happy Gaming !
