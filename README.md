@@ -1,8 +1,8 @@
-🐢 Turtle Racing Game
+# 🐢 Turtle Racing Game
 
-A fun Python game built with the turtle graphics library. Multiple turtles (or arrows if you change the shape) race against each other, and the program declares a winner at the end.
+A fun Python game built with the turtle graphics library. Multiple turtles race against each other, and the program declares a winner at the end. Along with fun explore the uses of various modules and libraries pre-defined in Python.
 
-📌 Features
+## 📌 Features
 
 Choose 2 to 10 racers.
 
@@ -56,5 +56,6 @@ Adjust race speed by modifying the random distance range:
 distance = random.randrange(1, 20)
 
 📜 License
+
 
 Free to use, modify, and share for fun and learning. 🎉
