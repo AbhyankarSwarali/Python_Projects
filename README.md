@@ -3,22 +3,19 @@
 A fun Python game built with the turtle graphics library. Multiple turtles race against each other, and the program declares a winner at the end. Along with fun explore the uses of various modules and libraries pre-defined in Python.
 
 ## 📌 Features
-1. Choose 2 to 10 racers.
+1. Choose between 2 to 10 racers.
 2. Turtles are assigned random colors.
 3. Each turtle moves forward a random distance each turn.
 4. Game ends automatically when a turtle crosses the finish line.
-5. Window auto-closes after announcing the winner.
+5. Turtle window auto-closes after announcing the winner.
 
-🚀 How to Run
-
-Make sure you have Python 3.x installed.
-
-Save the script as turtle_race.py.
-
-Run the game:
-
+## 🚀 How to Run
+- Make sure you have Python 3.x installed.
+- Save the script as turtle_race.py.
+- Run the game:
+```
 python turtle_race.py
-
+```
 
 Enter the number of racers when prompted (between 2 and 10).
 
@@ -54,4 +51,5 @@ distance = random.randrange(1, 20)
 
 
 Free to use, modify, and share for fun and learning. 🎉
+
 
