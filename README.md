@@ -31,9 +31,14 @@ Enter the number of racers when prompted (between 2 and 10).
 - Python 3.x
 - No extra libraries required (uses built-in turtle and random).
 
-🎮 Example Gameplay
+## 🎮 Example Gameplay
+```
 Enter number of racers (2 - 10): 5
+
+
 The winner is green turtle !!
+```
+
 
 🛠️ Customization
 
@@ -49,6 +54,7 @@ distance = random.randrange(1, 20)
 
 
 Free to use, modify, and share for fun and learning. 🎉
+
 
 
 
