@@ -20,7 +20,7 @@ python turtle_race.py
 ```
 Enter the number of racers when prompted (between 2 and 10).
 ```
-
+- Then, you are directed to the turtle window where the racing starts.
 
 ## 🖼️ Game Window
 - The race window opens with all turtles aligned at the bottom.
@@ -54,3 +54,4 @@ Free to use, modify, and share for fun and learning. 🎉
 
 ## Happy Gaming !
 ## Happy Learning
+
