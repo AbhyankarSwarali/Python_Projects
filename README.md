@@ -40,13 +40,10 @@ The winner is green turtle !!
 ```
 
 
-🛠️ Customization
-
-Change COLORS list to add/remove turtle colors.
-
-Change turtle shape in create_turtle() (racer.shape('turtle')) to 'arrow', 'circle', etc.
-
-Adjust race speed by modifying the random distance range:
+## 🛠️ Customization
+- Change COLORS list to add/remove turtle colors.
+- Change turtle shape in create_turtle() (racer.shape('turtle')) to 'arrow', 'circle', etc.
+- Adjust race speed by modifying the random distance range:
 
 distance = random.randrange(1, 20)
 
@@ -54,6 +51,7 @@ distance = random.randrange(1, 20)
 
 
 Free to use, modify, and share for fun and learning. 🎉
+
 
 
 
