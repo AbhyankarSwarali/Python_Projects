@@ -41,16 +41,14 @@ The text document with typing sentences must be present in the same directory as
 - Python 3.6+
 - curses (preinstalled on Linux/macOS, install windows-curses on Windows)
 
-▶️ Usage
-
-Clone or download the project.
-
-Create a test_text.txt file with sentences (one per line). Example:
-
+## ▶️ Usage
+- Clone or download the project.
+- Create a test_text.txt file with sentences (one per line). Example:
+```
 The quick brown fox jumps over the lazy dog
 Speed typing tests help improve accuracy and speed
 Python is a fun programming language to learn
-
+```
 
 Run the script:
 
@@ -86,6 +84,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
