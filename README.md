@@ -29,14 +29,10 @@ pip install windows-curses
 - Displays a welcome screen before starting
 - Loads random sentences from a file (test_text.txt)
 - Tracks your WPM in real-time
-
-Highlights correct/incorrect characters
-
-Supports Backspace to fix mistakes
-
-Ends automatically when you finish typing
-
-Press Esc anytime to exit
+- Highlights correct/incorrect characters
+- Supports **Backspace** to fix mistakes
+- Ends automatically when you finish typing
+- Press **Esc** anytime to exit
 
 📦 Requirements
 
@@ -89,6 +85,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
