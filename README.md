@@ -35,13 +35,11 @@ pip install windows-curses
 - Press **Esc** anytime to exit
 
 ## ⚠️ Note for text document:
-The text document with typing sentences must be present in the same directory oas of the python code.
+The text document with typing sentences must be present in the same directory as of the python code.
 
 ## 📦 Requirements
-
-Python 3.6+
-
-curses (preinstalled on Linux/macOS, install windows-curses on Windows)
+- Python 3.6+
+- curses (preinstalled on Linux/macOS, install windows-curses on Windows)
 
 ▶️ Usage
 
@@ -88,6 +86,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
