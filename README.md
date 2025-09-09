@@ -64,11 +64,11 @@ python speed_typing.py
 Welcome to the Speed Typing test
 Press 'Enter' to begin
 ```
-
-Typing begins with a live WPM counter until you finish.
-After completion, you’ll see:
-
+- Typing begins with a live WPM counter until you finish.
+- After completion, you’ll see:
+```
 You completed the test. Press any key to continue...
+```
 
 ⚡ Possible Improvements
 
@@ -82,6 +82,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
