@@ -25,13 +25,10 @@ You need to install windows-curses with:
 pip install windows-curses
 ```
 
-✨ Features
-
-Displays a welcome screen before starting
-
-Loads random sentences from a file (test_text.txt)
-
-Tracks your WPM in real-time
+## ✨ Features
+- Displays a welcome screen before starting
+- Loads random sentences from a file (test_text.txt)
+- Tracks your WPM in real-time
 
 Highlights correct/incorrect characters
 
@@ -92,6 +89,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
