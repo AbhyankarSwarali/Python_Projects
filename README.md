@@ -5,21 +5,14 @@ This program measures your Words Per Minute (WPM) as you type a randomly chosen 
 
 ## 🖥️ About curses
 
-The curses module is a Python library for creating text-based user interfaces (TUIs) inside the terminal.
+The curses module is a Python library for creating **text-based user interfaces (TUIs)** inside the terminal.
 Instead of just printing plain text, curses gives you powerful tools to:
-
-Move the cursor to any position on the screen
-
-Detect individual key presses (without waiting for Enter)
-
-Apply colors, highlighting, and formatting
-
-Redraw parts of the screen dynamically
-
-Build interactive applications like editors, dashboards, or games
-
-In this project, curses is used to:
-
+- Move the cursor to any position on the screen
+- Detect individual key presses (without waiting for Enter)
+- Apply colors, highlighting, and formatting
+- Redraw parts of the screen dynamically
+- Build interactive applications like editors, dashboards, or games
+- In this project, curses is used to:
 Clear and refresh the screen each time you type
 
 Highlight correct characters in green and mistakes in red
@@ -100,3 +93,4 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
