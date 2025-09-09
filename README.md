@@ -13,11 +13,9 @@ Instead of just printing plain text, curses gives you powerful tools to:
 - Redraw parts of the screen dynamically
 - Build interactive applications like editors, dashboards, or games
 - In this project, curses is used to:
-Clear and refresh the screen each time you type
-
-Highlight correct characters in green and mistakes in red
-
-Capture real-time keystrokes for a smooth typing experience
+  * Clear and refresh the screen each time you type
+  * Highlight correct characters in green and mistakes in red
+  * Capture real-time keystrokes for a smooth typing experience
 
 Display the live WPM counter at the top
 
@@ -93,4 +91,5 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
