@@ -16,13 +16,14 @@ Instead of just printing plain text, curses gives you powerful tools to:
   * Clear and refresh the screen each time you type
   * Highlight correct characters in green and mistakes in red
   * Capture real-time keystrokes for a smooth typing experience
+  * Display the live WPM counter at the top
 
-Display the live WPM counter at the top
-
-⚠️ Note for Windows users: Python does not include curses by default on Windows. You need to install windows-curses
- with:
-
+## ⚠️ Note for Windows users: 
+Python does not include curses by default on Windows. 
+You need to install windows-curses with:
+```
 pip install windows-curses
+```
 
 ✨ Features
 
@@ -91,5 +92,6 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
