@@ -1,9 +1,9 @@
-Speed Typing Test (Terminal - Python Curses)
+# Speed Typing Test
 
 A simple speed typing test built in Python using the curses module.
 This program measures your Words Per Minute (WPM) as you type a randomly chosen sentence from a text file.
 
-🖥️ About curses
+## 🖥️ About curses
 
 The curses module is a Python library for creating text-based user interfaces (TUIs) inside the terminal.
 Instead of just printing plain text, curses gives you powerful tools to:
@@ -97,5 +97,6 @@ Implement multiple difficulty levels (short, medium, long sentences)
 Save high scores to a file
 
 Add a timer-based mode (e.g., 60-second challenge)
+
 
 Display a progress bar for the current sentence
