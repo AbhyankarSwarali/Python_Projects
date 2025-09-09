@@ -57,13 +57,13 @@ python speed_typing.py
 ## 🎮 Controls
 - **Enter** → Start the test
 - **Backspace** → Delete last typed character
+- **Esc** → Exit at any point
 
-Esc → Exit at any point
-
-📝 Example Run
+## 📝 Example Run
+```
 Welcome to the Speed Typing test
 Press 'Enter' to begin
-
+```
 
 Typing begins with a live WPM counter until you finish.
 After completion, you’ll see:
@@ -82,6 +82,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
