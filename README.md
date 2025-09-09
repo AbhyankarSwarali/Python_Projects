@@ -34,7 +34,10 @@ pip install windows-curses
 - Ends automatically when you finish typing
 - Press **Esc** anytime to exit
 
-📦 Requirements
+## ⚠️ Note for text document:
+The text document with typing sentences must be present in the same directory oas of the python code.
+
+## 📦 Requirements
 
 Python 3.6+
 
@@ -85,6 +88,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
