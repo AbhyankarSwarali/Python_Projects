@@ -49,11 +49,10 @@ The quick brown fox jumps over the lazy dog
 Speed typing tests help improve accuracy and speed
 Python is a fun programming language to learn
 ```
-
-Run the script:
-
+- Run the script inside **command prompt**:
+```
 python speed_typing.py
-
+```
 🎮 Controls
 
 Enter → Start the test
@@ -84,6 +83,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
