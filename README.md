@@ -53,11 +53,10 @@ Python is a fun programming language to learn
 ```
 python speed_typing.py
 ```
-🎮 Controls
 
-Enter → Start the test
-
-Backspace → Delete last typed character
+## 🎮 Controls
+- **Enter** → Start the test
+- **Backspace** → Delete last typed character
 
 Esc → Exit at any point
 
@@ -83,6 +82,7 @@ Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
