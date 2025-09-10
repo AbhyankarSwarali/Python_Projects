@@ -70,18 +70,16 @@ Press 'Enter' to begin
 You completed the test. Press any key to continue...
 ```
 
-⚡ Possible Improvements
-
-Add accuracy percentage calculation
-
-Implement multiple difficulty levels (short, medium, long sentences)
-
-Save high scores to a file
+## ⚡ Possible Improvements
+- Add accuracy percentage calculation
+- Implement multiple difficulty levels (short, medium, long sentences)
+- Save high scores to a file
 
 Add a timer-based mode (e.g., 60-second challenge)
 
 
 Display a progress bar for the current sentence
+
 
 
 
