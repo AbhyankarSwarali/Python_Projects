@@ -53,16 +53,7 @@ Copy code
 pip install playsound3
 ```
 - Then replace the sound-playing part in your code:
-```
-python
-Copy code
-from playsound3 import playsound
 
-def play_alarm():
-    wave_obj = sa.WaveObject.from_wave_file("alarm.wav")  # use WAV instead of MP3
-    play_obj = wave_obj.play()
-    play_obj.wait_done()
-```
 ❌ Countdown doesn’t update properly in VS Code
 Add flush=True to the print statement:
 
@@ -82,6 +73,7 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
 
