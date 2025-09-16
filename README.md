@@ -1,7 +1,5 @@
-Python Alarm Clock ⏰
-
-A simple Python-based alarm clock that waits for a given time and then plays an alarm sound.  
-It shows a live countdown timer in the terminal and plays a sound when the time is up.
+# Python Alarm Clock ⏰
+A simple Python-based alarm clock that waits for a given time and then plays an alarm sound. It shows a live countdown timer in the terminal and plays a sound when the time is up.
 
 ---
 
@@ -16,7 +14,8 @@ It shows a live countdown timer in the terminal and plays a sound when the time 
 ## Requirements
 - Python 3.8 or above  
 - Dependencies:
-  ```bash
+  ```
+  bash
   pip install playsound3
 or (recommended for VS Code):
 
@@ -76,4 +75,5 @@ Alarm will ring in 00:03
 Alarm will ring in 00:02
 Alarm will ring in 00:01
 Alarm will ring in 00:00
+
 🔔 Alarm ringing! 🔔
