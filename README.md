@@ -18,7 +18,7 @@ A simple Python-based alarm clock that waits for a given time and then plays an 
   bash
   pip install playsound3
   ```
-or (recommended for VS Code):
+- or (recommended for VS Code):
 ```
 bash
 Copy code
@@ -44,9 +44,9 @@ How many seconds to wait? 10
 - The countdown will appear, and the alarm will play when the time is up.
 
 ## Troubleshooting
-❌ Alarm sound doesn’t play in VS Code
-playsound3 may fail inside the VS Code integrated terminal.
-✅ Fix: Either run the script in CMD/PowerShell or install simpleaudio:
+- Alarm sound doesn’t play in VS Code
+- playsound3 may fail inside the VS Code integrated terminal.
+- **Fix**: Either run the script in CMD/PowerShell or install simpleaudio:
 
 bash
 Copy code
@@ -80,5 +80,6 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
