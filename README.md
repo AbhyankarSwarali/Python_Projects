@@ -53,14 +53,10 @@ Copy code
 pip install playsound3
 ```
 - Then replace the sound-playing part in your code:
+- Countdown doesn’t update properly in VS Code
 
-❌ Countdown doesn’t update properly in VS Code
-Add flush=True to the print statement:
-
-python
-Copy code
-print(f'{CLEAR_AND_RETURN}Alarm will ring in {minutes_left:02d}:{seconds_left:02d}', flush=True)
-Example Run
+## Example Run:
+```
 bash
 Copy code
 How many minutes to wait? 0
@@ -73,10 +69,8 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+```
+- You can download any tune for the alarm.
+- Just make sure you place it in the same directory.
 
-
-
-
-
-
-
+## Happy Learning!!
