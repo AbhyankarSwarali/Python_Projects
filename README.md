@@ -47,11 +47,12 @@ How many seconds to wait? 10
 - Alarm sound doesn’t play in VS Code
 - playsound3 may fail inside the VS Code integrated terminal.
 - **Fix:** Either run the script in **Command Prompt** or **PowerShell** or install **simpleaudio**:
-
+```
 bash
 Copy code
-pip install simpleaudio
-Then replace the sound-playing part in your code:
+pip install playsound3
+```
+- Then replace the sound-playing part in your code:
 
 python
 Copy code
@@ -80,6 +81,7 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
 
