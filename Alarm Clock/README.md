@@ -27,17 +27,19 @@ pip install simpleaudio
 - **Usage** - Clone or download this script.
 - Place an audio file **alarm.mp3** or **alarm.wav** in the same directory as the script.
 
-Run the script:
-
+## Run the script
+```
 bash
 Copy code
 python alarm.py
-Enter the time you want to wait:
-
+```
+- Enter the time you want to wait:
+```
 bash
 Copy code
 How many minutes to wait? 0
 How many seconds to wait? 10
+```
 The countdown will appear, and the alarm will play when the time is up.
 
 Troubleshooting
@@ -77,5 +79,6 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
