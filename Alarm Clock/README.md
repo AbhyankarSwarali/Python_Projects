@@ -62,27 +62,6 @@ def play_alarm():
     play_obj = wave_obj.play()
     play_obj.wait_done()
 ```
-❌ Countdown doesn’t update properly in VS Code
-Add flush=True to the print statement:
+- Ensure that you don't put a very short or very long music.
 
-python
-Copy code
-print(f'{CLEAR_AND_RETURN}Alarm will ring in {minutes_left:02d}:{seconds_left:02d}', flush=True)
-Example Run
-bash
-Copy code
-How many minutes to wait? 0
-How many seconds to wait? 5
-
-Alarm will ring in 00:04
-Alarm will ring in 00:03
-Alarm will ring in 00:02
-Alarm will ring in 00:01
-Alarm will ring in 00:00
-
-🔔 Alarm ringing! 🔔
-
-
-
-
-
+  ## Happy Learning !!
