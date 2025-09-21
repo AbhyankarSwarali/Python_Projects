@@ -40,12 +40,12 @@ Copy code
 How many minutes to wait? 0
 How many seconds to wait? 10
 ```
-The countdown will appear, and the alarm will play when the time is up.
+- The countdown will appear, and the alarm will play when the time is up.
 
-Troubleshooting
-❌ Alarm sound doesn’t play in VS Code
-playsound3 may fail inside the VS Code integrated terminal.
-✅ Fix: Either run the script in CMD/PowerShell or install simpleaudio:
+## Troubleshooting
+- Alarm sound **doesn’t play** in VS Code
+- playsound3 may fail inside the VS Code integrated terminal.
+- **Fix**: Either run the script in CMD/PowerShell or install simpleaudio:
 
 bash
 Copy code
@@ -79,6 +79,7 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
 
