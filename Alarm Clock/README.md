@@ -17,13 +17,14 @@ A simple Python-based alarm clock that waits for a given time and then plays an 
   
   ```bash
   pip install playsound3
-or (recommended for VS Code):
-
+  ```
+- or (recommended for VS Code):
+```
 bash
 Copy code
 pip install simpleaudio
-Usage
-Clone or download this script.
+```
+- **Usage** - Clone or download this script.
 
 Place an audio file (alarm.mp3 or alarm.wav) in the same directory as the script.
 
@@ -77,3 +78,4 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
