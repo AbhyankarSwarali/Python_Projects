@@ -46,12 +46,13 @@ How many seconds to wait? 10
 - Alarm sound **doesn’t play** in VS Code
 - playsound3 may fail inside the VS Code integrated terminal.
 - **Fix**: Either run the script in CMD/PowerShell or install simpleaudio:
-
+```
 bash
 Copy code
 pip install simpleaudio
-Then replace the sound-playing part in your code:
-
+```
+- Then replace the sound-playing part in your code:
+```
 python
 Copy code
 import simpleaudio as sa
@@ -60,6 +61,7 @@ def play_alarm():
     wave_obj = sa.WaveObject.from_wave_file("alarm.wav")  # use WAV instead of MP3
     play_obj = wave_obj.play()
     play_obj.wait_done()
+```
 ❌ Countdown doesn’t update properly in VS Code
 Add flush=True to the print statement:
 
@@ -79,6 +81,7 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
 
 
