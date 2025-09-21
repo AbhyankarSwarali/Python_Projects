@@ -25,8 +25,7 @@ Copy code
 pip install simpleaudio
 ```
 - **Usage** - Clone or download this script.
-
-Place an audio file (alarm.mp3 or alarm.wav) in the same directory as the script.
+- Place an audio file **alarm.mp3** or **alarm.wav** in the same directory as the script.
 
 Run the script:
 
@@ -78,4 +77,5 @@ Alarm will ring in 00:01
 Alarm will ring in 00:00
 
 🔔 Alarm ringing! 🔔
+
 
