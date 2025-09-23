@@ -33,11 +33,12 @@ You must run it in a system terminal (cmd, PowerShell, bash, zsh, etc.).
 
 ```bash
 python maze_runner.py
+```
 
-🎨 Example Output
+## 🎨 Example Output
 
 When you run the script, the maze will be shown and the path exploration will animate step by step until the end is reached.
-
+```
 * * * * * O * * *
 *               *
 *   * *   * *   *
@@ -46,7 +47,7 @@ When you run the script, the maze will be shown and the path exploration will an
 *   *   *   * * *
 *               *
 * * * * * * * X *
-
+```
 
 As the program runs, you’ll see red X marks showing the BFS path exploration until the goal is found.
 
@@ -72,5 +73,6 @@ Press any key after the maze finishes solving to exit.
 
 
 If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
+
 
 
