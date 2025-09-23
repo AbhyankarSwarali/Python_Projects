@@ -12,7 +12,7 @@ The visualization is done using the **`curses`** library, so the path exploratio
    - `O` → Start position  
    - `X` → End/Goal  
 
-2. BFS is used to explore the maze:
+2. **BFS** is used to explore the maze:
    - At each step, the algorithm checks the neighboring cells (up, down, left, right).  
    - Explored cells are added to a queue until the goal `X` is found.  
 
@@ -38,8 +38,8 @@ python maze_runner.py
 
 When you run the script, the maze will be shown and the path exploration will animate step by step until the end is reached.
 
-########O##
-#        #
+# # # # # # # # O # #
+#                   #
 # ## ##  #
 # #   #  #
 # # # #  #
@@ -72,3 +72,4 @@ Press any key after the maze finishes solving to exit.
 
 
 If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
+
