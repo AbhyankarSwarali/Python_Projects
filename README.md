@@ -59,12 +59,10 @@ When you run the script, the maze will be shown and the path exploration will an
 - - time
 - No external dependencies are required.
 
-📌 Notes
+## 📌 Notes
+- Press any key after the maze finishes solving to exit.
+- If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
 
-Press any key after the maze finishes solving to exit.
-
-
-If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
 
 
 
