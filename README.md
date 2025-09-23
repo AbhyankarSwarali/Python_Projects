@@ -48,12 +48,10 @@ When you run the script, the maze will be shown and the path exploration will an
 *               *
 * * * * * * * X *
 ```
+- As the program runs, you’ll see red X marks showing the BFS path exploration until the goal is found.
+- You can change the shape of the maze by editing the maze list in the code.
 
-As the program runs, you’ll see red X marks showing the BFS path exploration until the goal is found.
-
-✅ You can change the shape of the maze by editing the maze list in the code.
-
-🔧 Requirements
+## 🔧 Requirements
 
 Python 3.x
 
@@ -73,6 +71,7 @@ Press any key after the maze finishes solving to exit.
 
 
 If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
+
 
 
 
