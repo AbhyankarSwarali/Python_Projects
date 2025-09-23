@@ -1,14 +1,7 @@
-# 🏃‍♂️🧩 Maze Runner (Curses BFS Visualizer)
-
-This project is a simple **maze solver and visualizer** written in Python.  
-It uses **Breadth-First Search (BFS)** to find the shortest path from a start point `O` to an end point `X` inside a maze.
+# 🏃‍♂️🧩 Maze Runner
+This project is a simple **maze solver and visualizer** written in Python. It uses **Breadth-First Search (BFS)** to find the shortest path from a start point `O` to an end point `X` inside a maze.
 
 The visualization is done using the **`curses`** library, so the path exploration is shown step by step in the terminal.
-
----
-
-## 📂 Files
-- `maze_runner.py` → Main script containing the maze, BFS logic, and curses-based visualization.
 
 ---
 
@@ -76,5 +69,6 @@ No external dependencies are required.
 📌 Notes
 
 Press any key after the maze finishes solving to exit.
+
 
 If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
