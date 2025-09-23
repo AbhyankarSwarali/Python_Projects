@@ -28,8 +28,8 @@ The visualization is done using the **`curses`** library, so the path exploratio
 Save the file as `maze_runner.py`.
 
 ### 2. Run in a Real Terminal  
-> ⚠️ **Important:** `curses` does not work well in VS Code’s integrated terminal.  
-You must run it in a system terminal (cmd, PowerShell, bash, zsh, etc.).
+- **Important:** `curses` does not work well in VS Code’s integrated terminal.  
+- You must run it in a system terminal (cmd, PowerShell, bash, zsh, etc.).
 
 ```bash
 python maze_runner.py
@@ -73,6 +73,7 @@ Press any key after the maze finishes solving to exit.
 
 
 If you want it to run inside VS Code, you’ll need to adapt it to use print animations or matplotlib instead of curses.
+
 
 
 
