@@ -31,12 +31,13 @@ python main.py
 - A dialog box will open → select the folder where you want to save the video.
 - The video will start downloading.
 
-🖼 Example Output
+## 🖼 Example Output
+```
 Enter a YouTube url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Selected folder: C:/Users/HP/Videos
 Download initialized...
 Video downloaded successfully!
-
+```
 
 If no folder is selected:
 
@@ -53,6 +54,7 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
 
