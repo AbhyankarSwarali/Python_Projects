@@ -1,4 +1,4 @@
-🎥 YouTube Video Downloader (Tkinter + Pytube)
+# 🎥 YouTube Video Downloader
 
 This is a simple Python application that lets you download YouTube videos in the highest available resolution.
 It uses pytube
@@ -60,6 +60,7 @@ Invalid save location.
 If you get RegexMatchError or HTTP Error 400, update pytube:
 
 pip install --upgrade pytube
+
 
 
 Make sure the YouTube URL is public and accessible.
