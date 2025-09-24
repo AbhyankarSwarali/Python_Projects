@@ -8,13 +8,10 @@ It uses **pytube** for fetching and downloading videos and Tkinter for folder se
 - GUI folder picker for choosing download directory.
 - Lightweight and easy to use.
 
-🚀 Requirements
-
-Make sure you have the following installed:
-
-Python 3.8+
-
-Required Python packages:
+## 🚀 Requirements
+- Make sure you have the following installed:
+- Python 3.8+
+- Required Python packages:
 
 pip install pytube tkinter
 
@@ -60,5 +57,6 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
