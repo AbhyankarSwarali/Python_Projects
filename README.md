@@ -16,7 +16,9 @@ It uses **pytube** for fetching and downloading videos and Tkinter for folder se
 pip install pytube tkinter
 ```
 
-⚠️ Note: tkinter usually comes pre-installed with Python. If not, you can install it separately depending on your OS.
+## ⚠️ Note: 
+- tkinter usually comes pre-installed with Python.
+- If not, you can install it separately depending on your OS.
 
 📂 How to Run
 
@@ -57,6 +59,7 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
 
