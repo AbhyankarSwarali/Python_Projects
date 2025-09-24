@@ -24,15 +24,12 @@ pip install pytube tkinter
 - Clone or download this project.
 - Open a terminal in the project folder.
 - Run the script:
-
+```
 python main.py
-
-
-Enter a valid YouTube video URL when prompted.
-
-A dialog box will open → select the folder where you want to save the video.
-
-The video will start downloading.
+```
+- Enter a valid YouTube video URL when prompted.
+- A dialog box will open → select the folder where you want to save the video.
+- The video will start downloading.
 
 🖼 Example Output
 Enter a YouTube url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
@@ -56,6 +53,7 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
 
