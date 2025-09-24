@@ -1,10 +1,9 @@
 # 🎥 YouTube Video Downloader
 
 This is a simple Python application that lets you download YouTube videos in the highest available resolution.
-It uses pytube
- for fetching and downloading videos and Tkinter for folder selection.
+It uses **pytube** for fetching and downloading videos and Tkinter for folder selection.
 
-✨ Features
+## ✨ Features
 
 📌 Download YouTube videos in highest available resolution (MP4).
 
@@ -64,3 +63,4 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
