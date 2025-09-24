@@ -20,13 +20,10 @@ pip install pytube tkinter
 - tkinter usually comes pre-installed with Python.
 - If not, you can install it separately depending on your OS.
 
-📂 How to Run
-
-Clone or download this project.
-
-Open a terminal in the project folder.
-
-Run the script:
+## 📂 How to Run
+- Clone or download this project.
+- Open a terminal in the project folder.
+- Run the script:
 
 python main.py
 
@@ -59,6 +56,7 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
 
