@@ -46,15 +46,13 @@ Selected folder:
 Invalid save location.
 ```
 
-🛠 Troubleshooting
-
-If you get RegexMatchError or HTTP Error 400, update pytube:
-
+## 🛠 Troubleshooting
+- If you get RegexMatchError or HTTP Error 400, update pytube:
+```
 pip install --upgrade pytube
+```
+- Make sure the YouTube URL is public and accessible.
 
-
-
-Make sure the YouTube URL is public and accessible.
 
 
 
