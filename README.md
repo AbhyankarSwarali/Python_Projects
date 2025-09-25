@@ -38,12 +38,13 @@ Selected folder: C:/Users/HP/Videos
 Download initialized...
 Video downloaded successfully!
 ```
-
-If no folder is selected:
-
+## Note:
+- If no folder is selected:
+```
 Enter a YouTube url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Selected folder: 
 Invalid save location.
+```
 
 🛠 Troubleshooting
 
@@ -54,6 +55,7 @@ pip install --upgrade pytube
 
 
 Make sure the YouTube URL is public and accessible.
+
 
 
 
