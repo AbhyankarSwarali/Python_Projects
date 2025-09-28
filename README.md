@@ -54,14 +54,4 @@ Backup/
 - Use Windows Task Scheduler (recommended).
 - Or convert to `.exe` with PyInstaller
 
-.
-
-
-
-
-
-
-
-
-
-
+## Happy Learning!!
