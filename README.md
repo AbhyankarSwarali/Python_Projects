@@ -1,10 +1,8 @@
-💾 Automated File Backup Script
-
+# 💾 Automated File Backup Script
 This Python script automatically creates a daily backup of a folder by copying it into a destination directory. Each backup is stored in a subfolder named with the current date.
 
-✨ Features
-
-📂 Automatically copies files from a source folder to a backup folder
+## ✨ Features
+- Automatically copies files from a source folder to a backup folder
 
 📅 Creates a new subfolder named after today’s date (YYYY-MM-DD)
 
@@ -70,4 +68,5 @@ Backup/
 ⚙️ Use Windows Task Scheduler (recommended).
 
 📦 Or convert to .exe with PyInstaller
+
 .
