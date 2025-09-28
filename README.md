@@ -7,11 +7,10 @@ This Python script automatically creates a daily backup of a folder by copying i
 - Runs every day at a scheduled time using the schedule module
 - Can overwrite/update backups if needed (Python 3.8+)
 
-⚡ Requirements
+## ⚡ Requirements
+- Python 3.8 or later
 
-🐍 Python 3.8 or later
-
-📦 Install required library:
+## 📦 Install required library:
 
 pip install schedule
 
@@ -67,4 +66,5 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
