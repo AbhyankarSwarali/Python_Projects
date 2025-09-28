@@ -49,15 +49,13 @@ Backup/
  ├── 2025-09-24/
  ├── 2025-09-25/
 ```
-💡 Notes
-
-🖥️ To make it run automatically without keeping the terminal open:
-
-⚙️ Use Windows Task Scheduler (recommended).
-
-📦 Or convert to .exe with PyInstaller
+## 💡 Notes
+- To make it run automatically without keeping the terminal open:
+- Use Windows Task Scheduler (recommended).
+- Or convert to `.exe` with PyInstaller
 
 .
+
 
 
 
