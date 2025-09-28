@@ -40,10 +40,9 @@ python automated_backup.py
 schedule.every().day.at("18:55").do(lambda: copy_folder_to_directory(source_dir, destination_dir))
 ```
 - Overwrite existing backups (default with dirs_exist_ok=True).
+- Keep separate backups per day (e.g., Backup/2025-09-25).
 
-📂 Keep separate backups per day (e.g., Backup/2025-09-25).
-
-📂 Example Output
+## 📂 Example Output
 
 If today is 2025-09-25, after running the script your backup directory will look like:
 
@@ -60,6 +59,7 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
 
