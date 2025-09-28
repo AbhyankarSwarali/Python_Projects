@@ -11,14 +11,13 @@ This Python script automatically creates a daily backup of a folder by copying i
 - Python 3.8 or later
 
 ## 📦 Install required library:
-
+```
 pip install schedule
-
-
-📁 A Backup folder must already exist at the destination path you set in:
-
+```
+- A Backup folder must already exist at the destination path you set in:
+```
 destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
-
+```
 🚀 Usage
 
 🔧 Clone or download this script.
@@ -66,5 +65,6 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
