@@ -18,15 +18,14 @@ pip install schedule
 ```
 destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
 ```
-🚀 Usage
 
-🔧 Clone or download this script.
-
-✏️ Update the following paths in the script:
-
+## 🚀 Usage
+- Clone or download this script.
+- Update the following paths in the script:
+```
 source_dir = "C:/Users/HP/OneDrive/Desktop/Wallpapers"
 destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
-
+```
 
 ⚠️ Make sure the Backup folder already exists at the destination path.
 
@@ -65,6 +64,7 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
 
