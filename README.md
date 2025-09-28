@@ -43,13 +43,12 @@ schedule.every().day.at("18:55").do(lambda: copy_folder_to_directory(source_dir,
 - Keep separate backups per day (e.g., Backup/2025-09-25).
 
 ## 📂 Example Output
-
-If today is 2025-09-25, after running the script your backup directory will look like:
-
+- If today is 2025-09-25, after running the script your backup directory will look like:
+```
 Backup/
  ├── 2025-09-24/
  ├── 2025-09-25/
-
+```
 💡 Notes
 
 🖥️ To make it run automatically without keeping the terminal open:
@@ -59,6 +58,7 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
 
