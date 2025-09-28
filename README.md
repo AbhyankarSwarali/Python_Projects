@@ -3,12 +3,9 @@ This Python script automatically creates a daily backup of a folder by copying i
 
 ## ✨ Features
 - Automatically copies files from a source folder to a backup folder
-
-📅 Creates a new subfolder named after today’s date (YYYY-MM-DD)
-
-⏰ Runs every day at a scheduled time using the schedule module
-
-🔄 Can overwrite/update backups if needed (Python 3.8+)
+- Creates a new subfolder named after today’s date (YYYY-MM-DD)
+- Runs every day at a scheduled time using the schedule module
+- Can overwrite/update backups if needed (Python 3.8+)
 
 ⚡ Requirements
 
@@ -70,3 +67,4 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
