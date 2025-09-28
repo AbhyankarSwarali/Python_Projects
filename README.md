@@ -31,10 +31,9 @@ destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
 ```
 python automated_backup.py
 ```
+- The script will run continuously and perform the backup every day at 18:55.
 
-⏳ The script will run continuously and perform the backup every day at 18:55.
-
-⚙️ Customization
+⚙️##  Customization
 
 🕒 Change schedule time:
 
@@ -62,6 +61,7 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
 
