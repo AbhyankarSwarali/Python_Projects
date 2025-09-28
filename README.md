@@ -26,13 +26,11 @@ destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
 source_dir = "C:/Users/HP/OneDrive/Desktop/Wallpapers"
 destination_dir = "C:/Users/HP/OneDrive/Desktop/Backup"
 ```
-
-⚠️ Make sure the Backup folder already exists at the destination path.
-
-▶️ Run the script:
-
+- Make sure the Backup folder already exists at the destination path.
+- Run the script:
+```
 python automated_backup.py
-
+```
 
 ⏳ The script will run continuously and perform the backup every day at 18:55.
 
@@ -64,6 +62,7 @@ Backup/
 📦 Or convert to .exe with PyInstaller
 
 .
+
 
 
 
