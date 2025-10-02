@@ -1,9 +1,7 @@
-🎨 Colour Code Game
+# 🎨 Colour Code
+A simple Mastermind-inspired code-breaking game built with Python. The goal is to guess the secret sequence of colours within a limited number of tries.
 
-A simple Mastermind-inspired code-breaking game built with Python.
-The goal is to guess the secret sequence of colours within a limited number of tries.
-
-📌 How It Works
+## 📌 How It Works
 
 The program randomly generates a code consisting of 4 colours from:
 
@@ -61,5 +59,6 @@ You guessed the code in 3 tries.
 ⚙️ Requirements
 
 Python 3.x
+
 
 No external libraries needed (uses only random)
