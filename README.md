@@ -11,11 +11,9 @@ A simple Mastermind-inspired code-breaking game built with Python. The goal is t
 - W = White
 - O = Orange
 
-You have 10 tries to guess the code.
-
-For each guess, the program provides feedback:
-
-✅ Correct positions → Number of colours in the right position.
+- You have 10 tries to guess the code.
+- For each guess, the program provides feedback:
+- **Correct positions** → Number of colours in the right position.
 
 🎯 Incorrect positions → Number of correct colours but in the wrong position.
 
@@ -53,4 +51,5 @@ Python 3.x
 
 
 No external libraries needed (uses only random)
+
 
