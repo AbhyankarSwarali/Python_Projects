@@ -52,8 +52,5 @@ You guessed the code in 3 tries.
 - Python 3.x
 - No external libraries needed (uses only random)
 
-
-
-
-
-
+## Happy gaming
+## Happy Learning!!
