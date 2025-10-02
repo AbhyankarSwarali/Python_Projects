@@ -12,16 +12,12 @@ R, G, Y, B, W, O
 - W = White
 - O = Orange
 ```
-
 - You have 10 tries to guess the code.
 - For each guess, the program provides feedback:
 - **Correct positions** → Number of colours in the right position.
-
-🎯 Incorrect positions → Number of correct colours but in the wrong position.
-
-If you guess all 4 colours in the correct order, you win 🎉.
-
-If you run out of tries, the correct code is revealed.
+- **Incorrect positions** → Number of correct colours but in the wrong position.
+- If you guess all 4 colours in the correct order, you win 🎉.
+- If you run out of tries, the correct code is revealed.
 
 ▶️ Run the Game
 1. Clone or Download
@@ -53,6 +49,7 @@ Python 3.x
 
 
 No external libraries needed (uses only random)
+
 
 
 
