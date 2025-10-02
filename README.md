@@ -30,7 +30,8 @@ cd colour-code-game
 python colour_code.py
 ```
 
-🖊️ Example Gameplay
+## Example Gameplay
+```
 Welcome to Colour Code
 You have 10 to guess the correct code...
 You must guess among: R G Y B W O
@@ -45,13 +46,12 @@ Incorrect positions: 3
 
 Guess: R B Y O
 You guessed the code in 3 tries.
+```
 
-⚙️ Requirements
+## Requirements
+- Python 3.x
+- No external libraries needed (uses only random)
 
-Python 3.x
-
-
-No external libraries needed (uses only random)
 
 
 
