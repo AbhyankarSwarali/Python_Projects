@@ -2,23 +2,14 @@
 A simple Mastermind-inspired code-breaking game built with Python. The goal is to guess the secret sequence of colours within a limited number of tries.
 
 ## 📌 How It Works
-
-The program randomly generates a code consisting of 4 colours from:
-
-R, G, Y, B, W, O
-
-
-R = Red
-
-G = Green
-
-Y = Yellow
-
-B = Blue
-
-W = White
-
-O = Orange
+- The program randomly generates a code consisting of 4 colours from:
+> R, G, Y, B, W, O
+- R = Red
+- G = Green
+- Y = Yellow
+- B = Blue
+- W = White
+- O = Orange
 
 You have 10 tries to guess the code.
 
@@ -62,3 +53,4 @@ Python 3.x
 
 
 No external libraries needed (uses only random)
+
