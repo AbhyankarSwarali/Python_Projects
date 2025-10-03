@@ -48,10 +48,5 @@ Accuracy: 72.4%
 ```
 
 
-
-
-
-
-
-
-
+## Happy gaming
+## Happy Learning!!
