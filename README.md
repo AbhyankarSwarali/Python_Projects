@@ -3,7 +3,7 @@ An Aim Trainer game built with Python and Pygame. Pygame is a cross-platform set
 
 Test your reaction time, accuracy, and speed by clicking on targets before they disappear!
 
-## 📌 Features
+##  Features
 - Targets spawn randomly on the screen.
 - Each target grows and shrinks until it disappears.
 - Hit the target before it vanishes to score points.
@@ -12,12 +12,10 @@ Test your reaction time, accuracy, and speed by clicking on targets before they 
    - Hits
    - Speed (targets per second)
    - Accuracy (%)
+- You will lose lives if you miss more than 3 targets.
+- End screen shows your performance stats
 
-Lose lives if you miss too many targets.
-
-End screen shows your performance stats.
-
-🖥️ Requirements
+## Requirements
 
 Python 3.7+
 
@@ -55,6 +53,7 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
 
