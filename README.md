@@ -25,12 +25,12 @@ Test your reaction time, accuracy, and speed by clicking on targets before they 
 ```
 pip install pygame
 ```
-
-Run the game:
-
+- Run the game:
+```
 python aim.py
+```
 
-🎮 Controls
+## Controls
 
 Left Mouse Button → Click on targets.
 
@@ -49,6 +49,7 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
 
