@@ -35,18 +35,16 @@ python aim.py
 - Any Key / Close Window → Exit end screen.
 
 ## Scoring System
-
-✅ Hit a target → +1 score.
-
-❌ Miss a target (disappears) → Lose 1 life.
-
-Game ends when you lose all lives.
+- Hit a target → +1 score.
+- Miss a target (disappears) → Lose 1 life.
+- Game ends when you lose all lives.
 
 🏆 Example End Screen
 Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
 
