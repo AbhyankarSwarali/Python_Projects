@@ -31,12 +31,10 @@ python aim.py
 ```
 
 ## Controls
+- Left Mouse Button → Click on targets.
+- Any Key / Close Window → Exit end screen.
 
-Left Mouse Button → Click on targets.
-
-Any Key / Close Window → Exit end screen.
-
-📊 Scoring System
+## Scoring System
 
 ✅ Hit a target → +1 score.
 
@@ -49,6 +47,7 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
 
