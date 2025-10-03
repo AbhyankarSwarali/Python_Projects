@@ -16,19 +16,15 @@ Test your reaction time, accuracy, and speed by clicking on targets before they 
 - End screen shows your performance stats
 
 ## Requirements
+- Python 3.7+
+- Pygame (pip install pygame) (Recommended installation from Terminal)
 
-Python 3.7+
-
-Pygame (pip install pygame)
-
-▶️ How to Run
-
-Clone/download this repository.
-
-Install requirements:
-
+## How to Run
+- Clone/download this repository.
+- Install requirements:
+```
 pip install pygame
-
+```
 
 Run the game:
 
@@ -53,6 +49,7 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
 
