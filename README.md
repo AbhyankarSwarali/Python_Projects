@@ -1,12 +1,9 @@
-🎯 Aim Trainer (Pygame)
-
-An Aim Trainer game built with Python and Pygame.
-
-Pygame is a cross-platform set of Python modules designed for writing video games. It provides functionality for graphics, sound, and handling input devices, making it easy to create interactive games like this one.
+# 🎯 Aim Trainer
+An Aim Trainer game built with Python and Pygame. Pygame is a cross-platform set of Python modules designed for writing video games. It provides functionality for graphics, sound, and handling input devices, making it easy to create interactive games like this one.
 
 Test your reaction time, accuracy, and speed by clicking on targets before they disappear!
 
-📌 Features
+## 📌 Features
 
 Targets spawn randomly on the screen.
 
@@ -66,3 +63,4 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
