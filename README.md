@@ -39,11 +39,14 @@ python aim.py
 - Miss a target (disappears) → Lose 1 life.
 - Game ends when you lose all lives.
 
-🏆 Example End Screen
+## Example End Screen
+```
 Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+```
+
 
 
 
