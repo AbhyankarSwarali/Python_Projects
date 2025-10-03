@@ -7,16 +7,11 @@ Test your reaction time, accuracy, and speed by clicking on targets before they 
 - Targets spawn randomly on the screen.
 - Each target grows and shrinks until it disappears.
 - Hit the target before it vanishes to score points.
-
-Track your:
-
-Time survived
-
-Hits
-
-Speed (targets per second)
-
-Accuracy (%)
+- Track your:
+   - Time survived
+   - Hits
+   - Speed (targets per second)
+   - Accuracy (%)
 
 Lose lives if you miss too many targets.
 
@@ -60,5 +55,6 @@ Time: 01:32.4
 Speed: 1.8 target/sec
 Hits: 56
 Accuracy: 72.4%
+
 
 
